@@ -6,3 +6,7 @@ function destructivelyAppendKitten(name){
   return array;
 }
 
+function destructivelyPrependKitten(name){
+  array.unshift();
+  return array;
+}
